@@ -1,0 +1,104 @@
+{
+    "_id": {
+      "$oid": "5fbc7722b9e3ab38f0b42871"
+    },
+    "id": 1,
+    "productId": "91273",
+    "stations": [
+      {
+        "stationName": "station1",
+        "data": [
+          {
+            "dataName": "CycleTime",
+            "dataValue": 77
+          },
+          {
+            "dataName": "Done",
+            "dataValue": 33
+          },
+          {
+            "dataName": "Result",
+            "dataValue": 4
+          },
+          {
+            "dataName": "TotalCount",
+            "dataValue": 89
+          },
+          {
+            "dataName": "OK_Count",
+            "dataValue": 96
+          },
+          {
+            "dataName": "NOK_Count",
+            "dataValue": 23
+          },
+          {
+            "dataName": "DMC",
+            "dataValue": 4
+          },
+          {
+            "dataName": "State_PC",
+            "dataValue": 84
+          },
+          {
+            "dataName": "oDMC_toPC",
+            "dataValue": 23
+          },
+          {
+            "dataName": "iOK_DMC_forPC",
+            "dataValue": 60
+          },
+          {
+            "dataName": "iNOK_DMC_forPC",
+            "dataValue": 34
+          },
+          {
+            "dataName": "rTorque-1",
+            "dataValue": 67
+          },
+          {
+            "dataName": "rAngle-1",
+            "dataValue": 85
+          },
+          {
+            "dataName": "rTorque-2",
+            "dataValue": 47
+          },
+          {
+            "dataName": "rAngle-2",
+            "dataValue": 11
+          },
+          {
+            "dataName": "rTorque-3",
+            "dataValue": 36
+          },
+          {
+            "dataName": "rAngle-3",
+            "dataValue": 47
+          },
+          {
+            "dataName": "rAngle-4",
+            "dataValue": 37
+          },
+          {
+            "dataName": "rAngle-5",
+            "dataValue": 19
+          },
+          {
+            "dataName": "rTorque-4",
+            "dataValue": 16
+          },
+          {
+            "dataName": "rTorque-5",
+            "dataValue": 14
+          }
+        ]
+      }
+    ],
+    "createdAt": {
+      "$date": "2020-11-24T02:59:46.648Z"
+    },
+    "updatedAt": {
+      "$date": "2020-11-24T02:59:46.648Z"
+    }
+  }
